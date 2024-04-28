@@ -22,14 +22,14 @@ O scrapping é feito apenas na primeira página de cada site de busca.
 
 
 Produto com o menor preço:
-Produto: Console PlayStation 5 Standard Edition Branco + Controle Sem Fio Dualsense Branco
-Preço: 3437.9
-Site: Magazine Luiza
+- Produto: Console PlayStation 5 Standard Edition Branco + Controle Sem Fio Dualsense Branco
+- Preço: 3437.9
+- Site: Magazine Luiza
 
 Produto com o maior preço:
-Produto: Console PlayStation 5 Standard Edition SSD 825GB + Spider Man 2 com Controle
-Preço: 6249.9
-Site: Magazine Luiza
+- Produto: Console PlayStation 5 Standard Edition SSD 825GB + Spider Man 2 com Controle
+- Preço: 6249.9
+- Site: Magazine Luiza
 
 
 # Aluno: Leonardo da Rocha Mello
